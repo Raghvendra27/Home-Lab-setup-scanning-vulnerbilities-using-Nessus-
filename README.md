@@ -16,14 +16,23 @@ In this case I have used my own Arch linux host machine as an attack machine
 
 Steps:
 1.Download and setup 2 virtual machines (attack machine and metasplotable2)
+
 2.Make sure they are on host-only network with the attached network adapter ( you can do this in the network settings of the virtual box) 
+
 3.Initialize the metasploitable2 machine
+
 4.Try to ping it using the attack machine to see if the network is estabilished
+
 5.Setup Nessus tool on the attack machine
+
 6.Start a network scan on the target machine 
+
 7.After the scan is completed you can see the vulnerabilite and information found categorized on the basis of their criticality
+
 8.Read about the vulnerbilities , their cve's and their patch or find alternate solutions to it
+
 9.Create a professional report about your findings and solutions ,mention the business impact they can cause , include quick summary of any similar case and it's impact
+
 10.Your project is complete (You can further study about the vulnerbilities and their exploits and try to develop solutions around it )
 
 <img width="813" height="576" alt="Screenshot_2026-06-07_17-25-39" src="https://github.com/user-attachments/assets/7983cfc0-d5f6-40c1-9532-c478ad657b7c" />
