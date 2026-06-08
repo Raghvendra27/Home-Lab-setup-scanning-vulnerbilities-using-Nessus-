@@ -11,6 +11,7 @@ VirtualBox ( any virtualization platform )
 Metasploitable2 machine image 
 Kali linux virtual machine (or any other security capable linux distribution) , you can also use your actual linux based os if you want to 
 Nessus Tool
+In this case I have used my own Arch linux host machine as an attack machine 
 
 Steps:
 1.Download and setup 2 virtual machines (attack machine and metasplotable2)
